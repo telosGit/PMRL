@@ -1,4 +1,4 @@
-# PoC MALWARE RESEARCH LICENSE
+# PoC MALWARE RESEARCH LICENSE (PMRL)
 A license for Proof-of-Concept/Malware projects
 
 
