@@ -14,7 +14,7 @@ How do I use it?
 
 2. Paste it into a new file in the root (`/`) of your repo called `LICENSE` (no extention)
 
-4. Replace the `[year]`, `[name/handle/username]`, and `[contact]` blocks in the license with your correct info
+4. Replace the `[year]`, `[name/handle/username]`, and `[contact]` blocks in the license with your correct info. (on lines `4`, `65`, `141`)
 
 3. Save, reference this repository in the `README.md` of your repo please.
 
